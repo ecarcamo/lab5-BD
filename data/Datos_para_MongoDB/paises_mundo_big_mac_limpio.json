@@ -1,0 +1,532 @@
+[
+  {
+    "país": "albania",
+    "continente": "Europa",
+    "precio_big_mac_usd": 5.79
+  },
+  {
+    "país": "andorra",
+    "continente": "Europa",
+    "precio_big_mac_usd": 2.08
+  },
+  {
+    "país": "austria",
+    "continente": "Europa",
+    "precio_big_mac_usd": 5.55
+  },
+  {
+    "país": "belarus",
+    "continente": "Europa",
+    "precio_big_mac_usd": 4.55
+  },
+  {
+    "país": "belgium",
+    "continente": "Europa",
+    "precio_big_mac_usd": 4.66
+  },
+  {
+    "país": "bosnia and herzegovina",
+    "continente": "Europa",
+    "precio_big_mac_usd": 6.22
+  },
+  {
+    "país": "bulgaria",
+    "continente": "Europa",
+    "precio_big_mac_usd": 3.13
+  },
+  {
+    "país": "croatia",
+    "continente": "Europa",
+    "precio_big_mac_usd": 7.02
+  },
+  {
+    "país": "cyprus",
+    "continente": "Europa",
+    "precio_big_mac_usd": 6.46
+  },
+  {
+    "país": "czech republic",
+    "continente": "Europa",
+    "precio_big_mac_usd": 5.34
+  },
+  {
+    "país": "denmark",
+    "continente": "Europa",
+    "precio_big_mac_usd": 2.01
+  },
+  {
+    "país": "estonia",
+    "continente": "Europa",
+    "precio_big_mac_usd": 7.08
+  },
+  {
+    "país": "finland",
+    "continente": "Europa",
+    "precio_big_mac_usd": 1.61
+  },
+  {
+    "país": "france",
+    "continente": "Europa",
+    "precio_big_mac_usd": 4.29
+  },
+  {
+    "país": "germany",
+    "continente": "Europa",
+    "precio_big_mac_usd": 5.62
+  },
+  {
+    "país": "greece",
+    "continente": "Europa",
+    "precio_big_mac_usd": 3.77
+  },
+  {
+    "país": "hungary",
+    "continente": "Europa",
+    "precio_big_mac_usd": 5.81
+  },
+  {
+    "país": "iceland",
+    "continente": "Europa",
+    "precio_big_mac_usd": 2.74
+  },
+  {
+    "país": "ireland",
+    "continente": "Europa",
+    "precio_big_mac_usd": 4.07
+  },
+  {
+    "país": "italy",
+    "continente": "Europa",
+    "precio_big_mac_usd": 7.33
+  },
+  {
+    "país": "kosovo",
+    "continente": "Europa",
+    "precio_big_mac_usd": 5.96
+  },
+  {
+    "país": "latvia",
+    "continente": "Europa",
+    "precio_big_mac_usd": 1.77
+  },
+  {
+    "país": "liechtenstein",
+    "continente": "Europa",
+    "precio_big_mac_usd": 1.88
+  },
+  {
+    "país": "lithuania",
+    "continente": "Europa",
+    "precio_big_mac_usd": 3.95
+  },
+  {
+    "país": "luxembourg",
+    "continente": "Europa",
+    "precio_big_mac_usd": 6.7
+  },
+  {
+    "país": "malta",
+    "continente": "Europa",
+    "precio_big_mac_usd": 2.01
+  },
+  {
+    "país": "moldova",
+    "continente": "Europa",
+    "precio_big_mac_usd": 2.61
+  },
+  {
+    "país": "monaco",
+    "continente": "Europa",
+    "precio_big_mac_usd": 3.32
+  },
+  {
+    "país": "montenegro",
+    "continente": "Europa",
+    "precio_big_mac_usd": 2.82
+  },
+  {
+    "país": "netherlands",
+    "continente": "Europa",
+    "precio_big_mac_usd": 2.52
+  },
+  {
+    "país": "north macedonia",
+    "continente": "Europa",
+    "precio_big_mac_usd": 1.51
+  },
+  {
+    "país": "norway",
+    "continente": "Europa",
+    "precio_big_mac_usd": 4.52
+  },
+  {
+    "país": "poland",
+    "continente": "Europa",
+    "precio_big_mac_usd": 3.82
+  },
+  {
+    "país": "portugal",
+    "continente": "Europa",
+    "precio_big_mac_usd": 1.87
+  },
+  {
+    "país": "romania",
+    "continente": "Europa",
+    "precio_big_mac_usd": 1.69
+  },
+  {
+    "país": "russia",
+    "continente": "Europa",
+    "precio_big_mac_usd": 2.66
+  },
+  {
+    "país": "san marino",
+    "continente": "Europa",
+    "precio_big_mac_usd": 7.47
+  },
+  {
+    "país": "serbia",
+    "continente": "Europa",
+    "precio_big_mac_usd": 1.77
+  },
+  {
+    "país": "slovakia",
+    "continente": "Europa",
+    "precio_big_mac_usd": 2.56
+  },
+  {
+    "país": "slovenia",
+    "continente": "Europa",
+    "precio_big_mac_usd": 5.92
+  },
+  {
+    "país": "spain",
+    "continente": "Europa",
+    "precio_big_mac_usd": 4.02
+  },
+  {
+    "país": "sweden",
+    "continente": "Europa",
+    "precio_big_mac_usd": 6.42
+  },
+  {
+    "país": "switzerland",
+    "continente": "Europa",
+    "precio_big_mac_usd": 2.46
+  },
+  {
+    "país": "ukraine",
+    "continente": "Europa",
+    "precio_big_mac_usd": 2.05
+  },
+  {
+    "país": "united kingdom",
+    "continente": "Europa",
+    "precio_big_mac_usd": 4.89
+  },
+  {
+    "país": "vatican city",
+    "continente": "Europa",
+    "precio_big_mac_usd": 4.52
+  },
+  {
+    "país": "sudáfrica",
+    "continente": "África",
+    "precio_big_mac_usd": 5.84
+  },
+  {
+    "país": "nigeria",
+    "continente": "África",
+    "precio_big_mac_usd": 4.98
+  },
+  {
+    "país": "egipto",
+    "continente": "África",
+    "precio_big_mac_usd": 2.94
+  },
+  {
+    "país": "kenia",
+    "continente": "África",
+    "precio_big_mac_usd": 4.24
+  },
+  {
+    "país": "marruecos",
+    "continente": "África",
+    "precio_big_mac_usd": 6.31
+  },
+  {
+    "país": "argelia",
+    "continente": "África",
+    "precio_big_mac_usd": 5.08
+  },
+  {
+    "país": "etiopía",
+    "continente": "África",
+    "precio_big_mac_usd": 6.38
+  },
+  {
+    "país": "ghana",
+    "continente": "África",
+    "precio_big_mac_usd": 2.13
+  },
+  {
+    "país": "tanzania",
+    "continente": "África",
+    "precio_big_mac_usd": 2.42
+  },
+  {
+    "país": "senegal",
+    "continente": "África",
+    "precio_big_mac_usd": 7.3
+  },
+  {
+    "país": "túnez",
+    "continente": "África",
+    "precio_big_mac_usd": 5.54
+  },
+  {
+    "país": "uganda",
+    "continente": "África",
+    "precio_big_mac_usd": 3.14
+  },
+  {
+    "país": "zambia",
+    "continente": "África",
+    "precio_big_mac_usd": 1.76
+  },
+  {
+    "país": "mozambique",
+    "continente": "África",
+    "precio_big_mac_usd": 2.53
+  },
+  {
+    "país": "camerún",
+    "continente": "África",
+    "precio_big_mac_usd": 4.2
+  },
+  {
+    "país": "angola",
+    "continente": "África",
+    "precio_big_mac_usd": 3.39
+  },
+  {
+    "país": "costa de marfil",
+    "continente": "África",
+    "precio_big_mac_usd": 3.99
+  },
+  {
+    "país": "malí",
+    "continente": "África",
+    "precio_big_mac_usd": 6.92
+  },
+  {
+    "país": "ruanda",
+    "continente": "África",
+    "precio_big_mac_usd": 2.96
+  },
+  {
+    "país": "namibia",
+    "continente": "África",
+    "precio_big_mac_usd": 2.28
+  },
+  {
+    "país": "china",
+    "continente": "Asia",
+    "precio_big_mac_usd": 5.47
+  },
+  {
+    "país": "india",
+    "continente": "Asia",
+    "precio_big_mac_usd": 6.61
+  },
+  {
+    "país": "japón",
+    "continente": "Asia",
+    "precio_big_mac_usd": 6.45
+  },
+  {
+    "país": "corea del sur",
+    "continente": "Asia",
+    "precio_big_mac_usd": 6.02
+  },
+  {
+    "país": "indonesia",
+    "continente": "Asia",
+    "precio_big_mac_usd": 4.8
+  },
+  {
+    "país": "tailandia",
+    "continente": "Asia",
+    "precio_big_mac_usd": 6.78
+  },
+  {
+    "país": "vietnam",
+    "continente": "Asia",
+    "precio_big_mac_usd": 4.25
+  },
+  {
+    "país": "filipinas",
+    "continente": "Asia",
+    "precio_big_mac_usd": 2.13
+  },
+  {
+    "país": "malasia",
+    "continente": "Asia",
+    "precio_big_mac_usd": 4.19
+  },
+  {
+    "país": "singapur",
+    "continente": "Asia",
+    "precio_big_mac_usd": 1.63
+  },
+  {
+    "país": "pakistán",
+    "continente": "Asia",
+    "precio_big_mac_usd": 2.81
+  },
+  {
+    "país": "bangladés",
+    "continente": "Asia",
+    "precio_big_mac_usd": 3.53
+  },
+  {
+    "país": "kazajistán",
+    "continente": "Asia",
+    "precio_big_mac_usd": 7.4
+  },
+  {
+    "país": "uzbekistán",
+    "continente": "Asia",
+    "precio_big_mac_usd": 5.43
+  },
+  {
+    "país": "arabia saudita",
+    "continente": "Asia",
+    "precio_big_mac_usd": 4.3
+  },
+  {
+    "país": "israel",
+    "continente": "Asia",
+    "precio_big_mac_usd": 2.79
+  },
+  {
+    "país": "irán",
+    "continente": "Asia",
+    "precio_big_mac_usd": 1.62
+  },
+  {
+    "país": "jordania",
+    "continente": "Asia",
+    "precio_big_mac_usd": 5.47
+  },
+  {
+    "país": "turquía",
+    "continente": "Asia",
+    "precio_big_mac_usd": 7.25
+  },
+  {
+    "país": "nepal",
+    "continente": "Asia",
+    "precio_big_mac_usd": 2.61
+  },
+  {
+    "país": "estados unidos",
+    "continente": "América",
+    "precio_big_mac_usd": 4.46
+  },
+  {
+    "país": "canadá",
+    "continente": "América",
+    "precio_big_mac_usd": 4.52
+  },
+  {
+    "país": "méxico",
+    "continente": "América",
+    "precio_big_mac_usd": 6.7
+  },
+  {
+    "país": "guatemala",
+    "continente": "América",
+    "precio_big_mac_usd": 2.83
+  },
+  {
+    "país": "el salvador",
+    "continente": "América",
+    "precio_big_mac_usd": 2.32
+  },
+  {
+    "país": "honduras",
+    "continente": "América",
+    "precio_big_mac_usd": 3.24
+  },
+  {
+    "país": "costa rica",
+    "continente": "América",
+    "precio_big_mac_usd": 1.83
+  },
+  {
+    "país": "panamá",
+    "continente": "América",
+    "precio_big_mac_usd": 6.93
+  },
+  {
+    "país": "cuba",
+    "continente": "América",
+    "precio_big_mac_usd": 2.64
+  },
+  {
+    "país": "república dominicana",
+    "continente": "América",
+    "precio_big_mac_usd": 3.38
+  },
+  {
+    "país": "colombia",
+    "continente": "América",
+    "precio_big_mac_usd": 4.18
+  },
+  {
+    "país": "venezuela",
+    "continente": "América",
+    "precio_big_mac_usd": 1.54
+  },
+  {
+    "país": "ecuador",
+    "continente": "América",
+    "precio_big_mac_usd": 2.9
+  },
+  {
+    "país": "perú",
+    "continente": "América",
+    "precio_big_mac_usd": 2.81
+  },
+  {
+    "país": "bolivia",
+    "continente": "América",
+    "precio_big_mac_usd": 5.92
+  },
+  {
+    "país": "paraguay",
+    "continente": "América",
+    "precio_big_mac_usd": 4.54
+  },
+  {
+    "país": "uruguay",
+    "continente": "América",
+    "precio_big_mac_usd": 2.15
+  },
+  {
+    "país": "argentina",
+    "continente": "América",
+    "precio_big_mac_usd": 4.84
+  },
+  {
+    "país": "chile",
+    "continente": "América",
+    "precio_big_mac_usd": 6.64
+  },
+  {
+    "país": "brasil",
+    "continente": "América",
+    "precio_big_mac_usd": 2.93
+  }
+]

@@ -1,0 +1,107 @@
+﻿id_pais,nombre_pais,capital,continente,region,poblacion,tasa_de_envejecimiento
+1,latvia,Riga,Europa,Norte de Europa,1906800.0,12.49
+2,romania,Bucarest,Europa,Europa del Este,19000000.0,24.01
+3,kosovo,Pristina,Europa,Balcanes,1800000.0,19.64
+4,sudáfrica,Pretoria,África,África Austral,59308690.0,16.97
+5,slovakia,Bratislava,Europa,Europa Central,5450000.0,8.12
+6,hungary,Desconocida,Europa,Desconocida,5450000.0,8.12
+7,angola,Desconocida,África,Desconocida,5450000.0,6.16
+8,japón,Desconocida,Asia,Desconocida,5450000.0,22.32
+9,uganda,Desconocida,África,Desconocida,5450000.0,17.02
+10,corea del sur,Desconocida,Asia,Desconocida,5450000.0,19.16
+11,irán,Desconocida,Asia,Desconocida,5450000.0,5.41
+12,estados unidos,Desconocida,América,Desconocida,5450000.0,24.4
+13,cuba,Desconocida,América,Desconocida,5450000.0,21.65
+14,denmark,Desconocida,Europa,Desconocida,5450000.0,9.25
+15,méxico,Desconocida,América,Desconocida,5450000.0,8.64
+16,argentina,Desconocida,América,Desconocida,5450000.0,8.67
+17,etiopía,Desconocida,África,Desconocida,5450000.0,11.08
+18,chile,Desconocida,América,Desconocida,5450000.0,15.5
+19,liechtenstein,Desconocida,Europa,Desconocida,5450000.0,13.64
+20,belarus,Desconocida,Europa,Desconocida,5450000.0,10.82
+21,albania,Desconocida,Europa,Desconocida,5450000.0,17.24
+22,north macedonia,Desconocida,Europa,Desconocida,5450000.0,7.79
+23,portugal,Desconocida,Europa,Desconocida,5450000.0,10.84
+24,finland,Desconocida,Europa,Desconocida,5450000.0,12.33
+25,canadá,Desconocida,América,Desconocida,5450000.0,14.12
+26,colombia,Desconocida,América,Desconocida,5450000.0,20.7
+27,austria,Desconocida,Europa,Desconocida,5450000.0,8.99
+28,estonia,Desconocida,Europa,Desconocida,5450000.0,15.28
+29,uzbekistán,Desconocida,Asia,Desconocida,5450000.0,16.85
+30,camerún,Desconocida,África,Desconocida,5450000.0,5.93
+31,panamá,Desconocida,América,Desconocida,5450000.0,17.15
+32,malta,Desconocida,Europa,Desconocida,5450000.0,8.41
+33,ruanda,Desconocida,África,Desconocida,5450000.0,6.3
+34,venezuela,Desconocida,América,Desconocida,5450000.0,23.98
+35,montenegro,Desconocida,Europa,Desconocida,5450000.0,24.31
+36,united kingdom,Desconocida,Europa,Desconocida,5450000.0,21.17
+37,arabia saudita,Desconocida,Asia,Desconocida,5450000.0,11.09
+38,zambia,Desconocida,África,Desconocida,5450000.0,6.95
+39,vatican city,Desconocida,Europa,Desconocida,5450000.0,18.68
+40,lithuania,Desconocida,Europa,Desconocida,5450000.0,13.8
+41,jordania,Desconocida,Asia,Desconocida,5450000.0,7.44
+42,malasia,Desconocida,Asia,Desconocida,5450000.0,14.9
+43,costa rica,Desconocida,América,Desconocida,5450000.0,5.69
+44,brasil,Desconocida,América,Desconocida,5450000.0,23.19
+45,singapur,Desconocida,Asia,Desconocida,5450000.0,10.18
+46,ghana,Desconocida,África,Desconocida,5450000.0,18.25
+47,india,Desconocida,Asia,Desconocida,5450000.0,11.23
+48,túnez,Desconocida,África,Desconocida,5450000.0,15.4
+49,indonesia,Desconocida,Asia,Desconocida,5450000.0,15.93
+50,slovenia,Desconocida,Europa,Desconocida,5450000.0,8.7
+51,namibia,Desconocida,África,Desconocida,5450000.0,24.39
+52,tanzania,Desconocida,África,Desconocida,5450000.0,20.5
+53,nigeria,Desconocida,África,Desconocida,5450000.0,23.79
+54,spain,Desconocida,Europa,Desconocida,5450000.0,22.9
+55,italy,Desconocida,Europa,Desconocida,5450000.0,16.96
+56,kenia,Desconocida,África,Desconocida,5450000.0,23.44
+57,san marino,Desconocida,Europa,Desconocida,5450000.0,6.77
+58,greece,Desconocida,Europa,Desconocida,5450000.0,8.92
+59,tailandia,Desconocida,Asia,Desconocida,5450000.0,5.9
+60,vietnam,Desconocida,Asia,Desconocida,5450000.0,11.51
+61,filipinas,Desconocida,Asia,Desconocida,5450000.0,12.77
+62,kazajistán,Desconocida,Asia,Desconocida,5450000.0,10.43
+63,israel,Desconocida,Asia,Desconocida,5450000.0,21.57
+64,mozambique,Desconocida,África,Desconocida,5450000.0,12.14
+65,turquía,Desconocida,Asia,Desconocida,5450000.0,10.62
+66,belgium,Desconocida,Europa,Desconocida,5450000.0,15.85
+67,norway,Desconocida,Europa,Desconocida,5450000.0,7.82
+68,luxembourg,Desconocida,Europa,Desconocida,5450000.0,21.04
+69,república dominicana,Desconocida,América,Desconocida,5450000.0,6.49
+70,perú,Desconocida,América,Desconocida,5450000.0,24.74
+71,iceland,Desconocida,Europa,Desconocida,5450000.0,20.44
+72,russia,Desconocida,Europa,Desconocida,5450000.0,8.97
+73,serbia,Desconocida,Europa,Desconocida,5450000.0,5.11
+74,ukraine,Desconocida,Europa,Desconocida,5450000.0,21.31
+75,senegal,Desconocida,África,Desconocida,5450000.0,19.14
+76,switzerland,Desconocida,Europa,Desconocida,5450000.0,19.58
+77,bangladés,Desconocida,Asia,Desconocida,5450000.0,20.43
+78,guatemala,Desconocida,América,Desconocida,5450000.0,6.48
+79,el salvador,Desconocida,América,Desconocida,5450000.0,12.17
+80,bolivia,Desconocida,América,Desconocida,5450000.0,7.32
+81,ireland,Desconocida,Europa,Desconocida,5450000.0,22.26
+82,bosnia and herzegovina,Desconocida,Europa,Desconocida,5450000.0,17.47
+83,malí,Desconocida,África,Desconocida,5450000.0,11.62
+84,nepal,Desconocida,Asia,Desconocida,5450000.0,6.27
+85,uruguay,Desconocida,América,Desconocida,5450000.0,11.22
+86,egipto,Desconocida,África,Desconocida,5450000.0,11.5
+87,moldova,Desconocida,Europa,Desconocida,5450000.0,19.59
+88,poland,Desconocida,Europa,Desconocida,5450000.0,17.75
+89,marruecos,Desconocida,África,Desconocida,5450000.0,22.74
+90,sweden,Desconocida,Europa,Desconocida,5450000.0,14.44
+91,germany,Desconocida,Europa,Desconocida,5450000.0,7.39
+92,netherlands,Desconocida,Europa,Desconocida,5450000.0,19.26
+93,argelia,Desconocida,África,Desconocida,5450000.0,20.22
+94,czech republic,Desconocida,Europa,Desconocida,5450000.0,16.23
+95,monaco,Desconocida,Europa,Desconocida,5450000.0,20.42
+96,andorra,Desconocida,Europa,Desconocida,5450000.0,14.88
+97,cyprus,Desconocida,Europa,Desconocida,5450000.0,15.45
+98,china,Desconocida,Asia,Desconocida,5450000.0,13.55
+99,paraguay,Desconocida,América,Desconocida,5450000.0,5.51
+100,bulgaria,Desconocida,Europa,Desconocida,5450000.0,7.16
+101,costa de marfil,Desconocida,África,Desconocida,5450000.0,5.63
+102,france,Desconocida,Europa,Desconocida,5450000.0,17.73
+103,croatia,Desconocida,Europa,Desconocida,5450000.0,11.29
+104,pakistán,Desconocida,Asia,Desconocida,5450000.0,15.17
+105,honduras,Desconocida,América,Desconocida,5450000.0,23.15
+106,ecuador,Desconocida,América,Desconocida,5450000.0,9.99
