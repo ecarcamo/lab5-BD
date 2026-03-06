@@ -31,7 +31,7 @@ JOIN pais_envejecimiento e
 ON p.pais = e.nombre_pais
 LIMIT 10;
 
-DROP TABLE dw_paises;
+--DROP TABLE dw_paises;
 SELECT COUNT(*) FROM dw_paises;
 
 select current_database()
